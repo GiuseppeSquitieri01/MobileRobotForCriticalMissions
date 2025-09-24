@@ -1,0 +1,5 @@
+build/
+install/
+log/
+src/navigation_pkg/navigation_pkg/__pycache__/
+src/perception_pkg/perception_pkg/__pycache__/
